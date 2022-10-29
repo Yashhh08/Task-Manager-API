@@ -19,10 +19,6 @@
 * Employee Controller
 * Task Controller
 
-
-
 ## Features
 
-![Screenshot (19)](https://user-images.githubusercontent.com/101392090/198834969-f28ad71c-4227-4619-b09e-353c537a23f1.png)
-
-
+![Screenshot (21)](https://user-images.githubusercontent.com/101392090/198835385-c03ca0eb-92f1-48fd-885f-c62af6825831.png)
