@@ -25,7 +25,7 @@
 
 ## AWS Deployed link
 
-[`http://covidvaccinerestapi-env.eba-bt8ve3ux.ap-south-1.elasticbeanstalk.com/swagger-ui/#/`](http://taskmanagerv1-env.eba-etmfnmup.ap-south-1.elasticbeanstalk.com/)
+http://taskmanagerv1-env.eba-etmfnmup.ap-south-1.elasticbeanstalk.com/
 
 ## Swagger Documentation
 [`http://covidvaccinerestapi-env.eba-bt8ve3ux.ap-south-1.elasticbeanstalk.com/swagger-ui/#/`](http://taskmanagerv1-env.eba-etmfnmup.ap-south-1.elasticbeanstalk.com/swagger-ui/#/)
