@@ -1,0 +1,14 @@
+com\masai\controller\TaskController.class
+com\masai\controller\EmployeeController.class
+com\masai\exceptions\MyErrorDetails.class
+com\masai\TaskManager1Application.class
+com\masai\service\EmployeeService.class
+com\masai\repositery\EmployeeDAO.class
+com\masai\service\TaskService.class
+com\masai\repositery\TaskDAO.class
+com\masai\service\TaskServiceImpl.class
+com\masai\exceptions\GlobalExceptionHandler.class
+com\masai\model\Employees.class
+com\masai\model\Tasks.class
+com\masai\exceptions\CustomException.class
+com\masai\service\EmployeeServiceImpl.class
