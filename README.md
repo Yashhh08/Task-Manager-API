@@ -22,3 +22,6 @@
 ## Features
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/101392090/198835385-c03ca0eb-92f1-48fd-885f-c62af6825831.png)
+
+## AWS Deployed link
+[`http://covidvaccinerestapi-env.eba-bt8ve3ux.ap-south-1.elasticbeanstalk.com/swagger-ui/#/`](http://taskmanagerv1-env.eba-etmfnmup.ap-south-1.elasticbeanstalk.com/swagger-ui/#/)
